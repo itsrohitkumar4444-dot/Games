@@ -18,4 +18,4 @@ if upper_limit<= lower_limit:
                 print("your guess is high")
     print(f"You were unable to guess the number which is {number}")
 else : 
-    print("You have Entered larger lower limit than upper limit.")
+    print("You have Entered larger lower limit than or equal to upper limit.")
